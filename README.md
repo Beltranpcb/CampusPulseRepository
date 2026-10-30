@@ -36,3 +36,4 @@ En Windows, si `python` no está disponible, probad `py`.
 - No introducir contraseñas, tokens, datos personales ni archivos generados.
 
 El objetivo del taller es **entender Git**. La complejidad del programa Python es secundaria.
+# CampusPulseRepository
